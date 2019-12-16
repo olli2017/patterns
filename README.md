@@ -1,2 +1,3 @@
 # patterns
-Practical min
+# Practical min  
+Implements all pattern for homework 13
